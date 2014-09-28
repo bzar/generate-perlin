@@ -1,0 +1,29 @@
+#params {
+  display: inline-block;
+  width: 500px;
+}
+
+#params li {
+  list-style: none;
+}
+
+#log {
+  width: 400px;
+  height: 400px;
+  overflow: auto;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+#layers {
+  padding: 0;
+  margin: 0;
+  width: 400px;
+  height: 200px;
+}
+
+#canvas {
+  border: 1px solid black;
+}
+
+
